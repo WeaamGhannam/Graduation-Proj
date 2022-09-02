@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dff8291-8753-4c0d-8a51-90524c06f632" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2BAfNJUVbi2SzdHRYq0fBhVqAga" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dff8291-8753-4c0d-8a51-90524c06f632" name="Default Changelist" comment="" />
+      <created>1656353768661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656353768661</updated>
+      <workItem from="1656353769863" duration="1444000" />
+      <workItem from="1656355899337" duration="25151000" />
+      <workItem from="1656451284717" duration="6980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="603" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1656453505031">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="603" y="358" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1095@0.25.1792.1095" timestamp="1656453505031" />
+    <state x="519" y="167" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1656371665745">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="519" y="167" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1792.1095@0.25.1792.1095" timestamp="1656371665745" />
+    <state x="597" y="278" width="902" height="582" key="find.popup" timestamp="1656460918904">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="597" y="278" width="902" height="582" key="find.popup/0.25.1792.1095@0.25.1792.1095" timestamp="1656460918904" />
+    <state x="560" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1656460834248">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="560" y="259" width="670" height="676" key="search.everywhere.popup/0.25.1792.1095@0.25.1792.1095" timestamp="1656460834248" />
+  </component>
+</project>
